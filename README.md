@@ -1,14 +1,27 @@
-<a href="http://www.bootstrapdash.com/demo/connect-plus-free/jquery/template/index.html" target="_blank"><img src="screenshot.jpg"></a>
+# [ConnectPlus Free Admin Template](https://www.bootstrapdash.com/product/connect-plus-free/?ref=appseed)
 
-<h1>Connect Plus Free Admin Template</h1>
 Connect Plus Admin is a free responsive admin template built with Bootstrap 4. The template has colorful, attractive yet simple and elegant design. The template is well crafted, with all the components neatly and carefully designed and arranged within the template.
 
 Connect Plus Admin is packed with all the features that fit your needs but not cramped with components you would not even use. It is an excellent fit to build admin panels, e-commerce systems, project management systems, CMS or CRM.
 
-Although the template has a design like none other, it is easily customizable to suit your requirements. Connect Plus Admin comes with a clean and well-commented code that makes it easy to work with the template. Thus making it an ideal pick for jump starting your project.
+<br />
 
+## Want more? Go PRO!
 
-<h1>Credits:</h1>
+Start faster with PRO Admin panels provided by [AppSeed](https://appseed.us), Lifetime updates and **24/7 LIVE Support** (via [Discord](https://discord.gg/fZC6hup))
+
+| [Premium Flask Dashboards](https://appseed.us/bundles/flask-admin-dashboards-pro) | [Flask Dashboard Dashkit PRO](https://appseed.us/admin-dashboards/flask-dashboard-dashkit-pro) | [Flask Dashboard Black PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) |
+| --- | --- | --- |
+| [![Premium Flask Dashboards - Provided by AppSeed.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-material-pro-screen.png)](https://appseed.us/bundles/flask-admin-dashboards-pro) | [![Flask Dashboard Dashkit PRO](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-dashkit-pro-screen.png)](https://appseed.us/admin-dashboards/flask-dashboard-dashkit-pro) | [![Flask Dashboard Black PRO](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-black-pro-screen.png)](https://appseed.us/admin-dashboards/flask-dashboard-black-pro)
+
+<br />
+<br />
+
+<a href="http://www.bootstrapdash.com/demo/connect-plus-free/jquery/template/index.html" target="_blank"><img src="screenshot.jpg"></a>
+
+<br />
+
+## Credits
 
 - Bootstrap 4
 - Material Design Icons
@@ -17,7 +30,9 @@ Although the template has a design like none other, it is easily customizable to
 - Chart.js
 - jquery-circle-progress
 
-<h1>Browser Support:</h1>
+<br />
+
+## Browser Support
 
 Connect Plus Admin is designed to work flawlessly with all the latest and modern web browsers.
 
@@ -27,8 +42,9 @@ Connect Plus Admin is designed to work flawlessly with all the latest and modern
 - Opera (latest)
 - IE10+
 
-<h1>License Information:</h1>
+<br />
 
+## License Information
 
 Connect Plus Admin is released under MIT license. Connect Plus Admin is a free Bootstrap 4 admin template developed by BootstrapDash. Feel free to download it, use it, share it, get creative with it.
 
@@ -45,13 +61,14 @@ Connect Plus Admin is released under MIT license. Connect Plus Admin is a free B
 
 5 - Now that your project has kick-started, all you need to do is to code, code, and code to your heart's content.
 
-<h1>How to Contribute?:</h1>
+<br />
 
+## How to Contribute
 
 We love your contributions and we welcome them wholeheartedly. We believe the more the merrier.
 To contribute make sure you have a Node.js and npm installed. Now run the command gulp --version. If the command returns with the Gulp version number, it means you have Gulp installed. If not you need to run the command npm install --global gulp-cli to install Gulp.
 
-<h2>Next</h2>
+**Next**
 
 After Gulp has been installed, follow the steps below to contribute.
   <br>
@@ -65,6 +82,11 @@ After Gulp has been installed, follow the steps below to contribute.
   <br>
 	5 - Submit a pull request.
   <hr>
+  
 Do you need a template with more features and functionalities? Get more with our collection of the premium template with more plugins, eye catching animations, UI components, and sample pages all fitting together with a high-quality design.
-
 Visit <a href="https://www.bootstrapdash.com" target="_blank">https://www.bootstrapdash.com</a> for more admin templates.
+
+<br />
+
+---
+[ConnectPlus Free Admin Template](https://www.bootstrapdash.com/product/connect-plus-free/?ref=appseed) - provided by **BootstrapDash**

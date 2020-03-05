@@ -17,7 +17,7 @@ Start faster with PRO Admin panels provided by [AppSeed](https://appseed.us), Li
 <br />
 <br />
 
-<a href="http://www.bootstrapdash.com/demo/connect-plus-free/jquery/template/index.html" target="_blank"><img src="screenshot.jpg"></a>
+<a href="http://www.bootstrapdash.com/demo/connect-plus-free/jquery/template/index.html?ref=appseed" target="_blank"><img src="screenshot.jpg"></a>
 
 <br />
 
